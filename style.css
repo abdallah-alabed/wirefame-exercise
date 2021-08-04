@@ -77,4 +77,9 @@ margin: auto;
    overflow-y:visible;
   }
 
-  
+  footer {
+background-color:rgb(59, 59, 59) ;
+height: 90px;
+margin-top: 30px;
+
+  }
