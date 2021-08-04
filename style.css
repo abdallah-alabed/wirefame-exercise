@@ -12,7 +12,10 @@ header {
    
     
 }
-
+header img{
+  width: 200px;
+  margin-left: 70px;
+}
 
 header nav a {
     padding: 10px;
